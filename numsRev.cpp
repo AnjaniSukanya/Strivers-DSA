@@ -9,6 +9,7 @@ void fn(int i , int n)
     }
     cout << i << endl;
     fn(i-1,n);
+    // if we write print here: 1 to n get printed using backtracking
 }
 
 
