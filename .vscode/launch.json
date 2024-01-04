@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sukanya/OneDrive/Desktop/Strivers-DSA",
-      "program": "c:/Users/sukanya/OneDrive/Desktop/Strivers-DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/sukanya/OneDrive/Desktop/Strivers-DSA/hashing",
+      "program": "c:/Users/sukanya/OneDrive/Desktop/Strivers-DSA/hashing/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
